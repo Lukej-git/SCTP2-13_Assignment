@@ -2,13 +2,13 @@ SCTP2-13_Assignment
 
 # Comparison of Serverless Framework and Terraform for Infrastructure as Code (IaC)
 
-<u>What type of infrastructure and application deployments are each tool best suited for?</u>
+## <u>What type of infrastructure and application deployments are each tool best suited for?</u>
 
 Serverless Framework: Best suited for deploying serverless applications, such as AWS Lambda functions, API Gateway, DynamoDB, and other cloud-managed services. It simplifies serverless application deployment by handling resource provisioning, packaging, and deployment automation.
 
 Terraform: Best suited for provisioning and managing infrastructure across various cloud providers. It is ideal for deploying complete infrastructure stacks, including networks, servers, databases, and security policies.
 
-<u>How do their primary objectives differ?</u>
+## <u>How do their primary objectives differ?</u>
 
 Serverless Framework: Focuses on abstracting cloud infrastructure to simplify serverless application deployment and management. It automates the deployment of serverless functions and related resources.
 
